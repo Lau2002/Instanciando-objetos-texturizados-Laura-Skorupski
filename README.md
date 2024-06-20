@@ -1,6 +1,6 @@
 ### Aplicação de Texturas
 
-1. **O que esse projeto realiza?**:
+1. **O que Esse Projeto Realiza?**
    - Este projeto tem como objetivo aplicar os conceitos de aplicação de texturas com OpenGL.
    - Ao executá-lo, ele deverá abrir a seguinte tela:
   
